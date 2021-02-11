@@ -968,6 +968,9 @@ section.under-construction {
     top: 0;
     left: 16px;
   }
+  .under-construction .topleft img {
+    width: 130px;
+  }
   
   .under-construction .bottomleft {
     position: absolute;
